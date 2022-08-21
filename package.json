@@ -1,0 +1,14 @@
+{
+  "name": "aws-node-todoapp",
+  "version": "1.0.0",
+  "description": "Serverless API built with AWS Lambda functions",
+  "dependencies": {
+    "aws-sdk": "^2.1199.0",
+    "express": "^4.17.1",
+    "serverless-http": "^2.7.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
